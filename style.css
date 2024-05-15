@@ -1,0 +1,37 @@
+body
+{
+background-color: cyan;
+font-family: "Noto Sans TC", sans-serif;
+}
+.header_div
+{
+    background-color: darkblue;
+    color: lightcyan;
+}
+.header_div p
+{
+    color: red;
+    font-size: 21px;
+    font-family: "Poetsen One", sans-serif;
+    letter-spacing: 1px;
+}
+.main_div button
+{
+    margin-top: 30px;
+    width: 130px;
+    font-family: "Cutive", serif;
+    font-size: 18px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.footer
+{
+    position: fixed;
+    background-color: deepskyblue;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    font-size: 18px;
+    line-height:2;
+    text-shadow: 5px 5px 5px #BDBEA9;
+}
